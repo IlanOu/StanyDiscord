@@ -154,4 +154,4 @@ async def help(ctx):
 
 
 
-bot.run("OTMzMDMwMzIzNzQ5NTM5ODUy.YebmNA.CHUfHsIsOWqzblX1BOSFDUGB_8g")
+bot.run("OTMzMDMwMzIzNzQ5NTM5ODUy.YebmNA.fq4V0Kqs4cAtYI_f6vSxdEO-Ybs")
