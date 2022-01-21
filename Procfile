@@ -1,1 +1,1 @@
-
+worker: python Stany.py
